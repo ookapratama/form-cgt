@@ -1,0 +1,2 @@
+[16-Jan-2022 11:52:16 Asia/Makassar] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/smktechn/public_html/ppdb/storage/framework/views/7e6fd0192194d8c33927404f94680e0f576de670.php on line 23
+[16-Jan-2022 11:52:19 Asia/Makassar] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/smktechn/public_html/ppdb/storage/framework/views/7e6fd0192194d8c33927404f94680e0f576de670.php on line 23
